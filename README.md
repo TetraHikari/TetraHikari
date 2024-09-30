@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peeranat Patarakittisopol</h1>
 <h3 align="center">A passionate full-stack developer from Thailand</h3>
 <img align="right" alt="Chopper" width="400" src="https://media.tenor.com/u3Qr_vUH0uUAAAAj/one-piece-pixel.gif" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tetrahikari&label=Profile%20views&color=0e75b6&style=flat" alt="tetrahikari" /> </p>
+<p align="left"> <img style="transform: scaleX(-1);" src="https://komarev.com/ghpvc/?username=tetrahikari&label=Profile%20views&color=0e75b6&style=flat" alt="tetrahikari" /> </p>
 
 - 📫 How to reach me **peeranatpee1@gmail.com**
 
