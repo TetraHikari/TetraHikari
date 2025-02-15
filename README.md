@@ -3,7 +3,7 @@
 <img align="right" alt="Chopper" width="400" src="https://media.tenor.com/u3Qr_vUH0uUAAAAj/one-piece-pixel.gif" />
 <p align="left"> <img style="transform: scaleX(-1);" src="https://komarev.com/ghpvc/?username=tetrahikari&label=Profile%20views&color=0e75b6&style=flat" alt="tetrahikari" /> </p>
 
-- 📫 How to reach me **peeranatpee1@gmail.com**
+- 📫 How to reach me **peeranatpattarakittisopol@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
